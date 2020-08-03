@@ -1,7 +1,4 @@
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  
 ### Hi there, I'm Tobias 👋
 
 - 🔭 I’m currently working on my apps Trashmate and ToneCollab
