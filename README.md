@@ -10,5 +10,6 @@
 - 🎓 Studying: Bachelor of Engineering in software technology at Technical University of Denmark
 ![ ](https://i.ibb.co/1LPm7Lt/undraw-Mobile-life-re-jtih.png)
 ​
-![Tobias's github stats](https://github-readme-stats.vercel.app/api​?username=tobiasmaneschijn&count_private=true​)
-​![Anurag's github stats](https://github-readme-stats.vercel.app/api​?username=TobiasManeschijn​)
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tobiasmaneschijn&show_icons=true&hide_border=true" />
