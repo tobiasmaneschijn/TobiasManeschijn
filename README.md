@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
+<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Hi there, I'm Tobias 👋
