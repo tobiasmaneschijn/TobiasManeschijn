@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nyhaalm" target="blank"><img src="https://img.shields.io/twitter/follow/nyhaalm?logo=twitter&style=for-the-badge" alt="nyhaalm" /></a> </p>
 
-- 🔭 I’m currently working on **Uni projects**
+- 🔭 I’m currently working at @Sitecore
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning AI
 
-- 💬 Ask me about **Unreal Engine, Unity, Kotlin, JS**
+- 💬 Ask me about **Unreal Engine, Unity, Kotlin, JS/TS**
 
 - 📫 How to reach me **s205422@dtu.dk**
 
