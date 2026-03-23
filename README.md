@@ -32,7 +32,6 @@ I am currently building **OpenBrau**—a self-hosted homebrewing management syst
 ---
 
 ### 📊 GitHub Stats
-![Tobias's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiasmaneschijn&show_icons=true&theme=nord&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasmaneschijn&layout=compact&theme=nord&hide_border=true)
 
 ---
