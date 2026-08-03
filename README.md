@@ -8,25 +8,12 @@ By night, I'm an avid homebrewer, musician and maker who loves music, audio engi
 
 ---
 
-### 🍺 Featured Project: [OpenBrau](https://github.com/tobiasmaneschijn/openbrau)
-*"The open-source brewing workspace for recipe nerds, batch trackers, and anyone who thinks 'just one more hydrometer reading' is a reasonable evening plan."*
-
-I am currently building **OpenBrau**—a self-hosted homebrewing management system designed to keep your brew log out of the cloud and fully in your control.
-
-**Built with:**
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-* **Architecture:** SvelteKit + Svelte 5, Drizzle ORM, Docker, MQTT (Mosquitto)
-
 ---
 
 ### 🛠️ What I Work With
 - **Languages:** TypeScript, JavaScript, SQL, C#, Powershell
 - **Frontend:** Svelte/SvelteKit, Tailwind CSS
-- **Backend/Data:** Bun, Node.js, PostgreSQL, Drizzle ORM
+- **Backend/Data:** Bun, Node.js, PostgreSQL, Drizzle ORM, ASP.NET Core
 - **Infrastructure:** Docker, Kubernetes, CI/CD, High-Availability Systems, Azure 
 
 ---
